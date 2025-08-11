@@ -26,7 +26,7 @@ The ChainID should be 1337, and you may need to delete a localhost configuration
 1. Clone the repo
 
 ```sh
-git clone https://github.com/dabit3/full-stack-ethereum.git
+git clone
 ```
 
 2. Install the dependencies
